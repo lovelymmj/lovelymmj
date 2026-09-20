@@ -1,9 +1,5 @@
-<img width="498" height="15" alt="IMG_0005" src="https://github.com/user-attachments/assets/1d557d2e-9fc2-4f5f-8a49-1800dc1403b3" />
-<img width="498" height="281" alt="IMG_0003" src="https://github.com/user-attachments/assets/4625560e-98c1-448c-9caa-33e773a0bd7a" />
-<img width="498" height="15" alt="IMG_0005" src="https://github.com/user-attachments/assets/1489dc91-9022-4409-a308-0e59c0103ff7" />
+<img width="315" height="24" alt="IMG_0016" src="https://github.com/user-attachments/assets/9118b712-0370-42f5-a81a-19f56b33a7dd" />
 
-## haruka , minori , kohane , ena , emu irl / srs
-        
 
 <!--
 **lovelymmj/lovelymmj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
